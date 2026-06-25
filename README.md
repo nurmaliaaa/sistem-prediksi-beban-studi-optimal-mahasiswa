@@ -1,1 +1,1 @@
-Sistem Prediksi Beban Studi Optimal Mahasiswa
+Sistem Prediksi Beban Studi Optimal Mahasiswa -
