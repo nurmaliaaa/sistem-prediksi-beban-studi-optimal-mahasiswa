@@ -1,7 +1,8 @@
-Sistem Prediksi Beban Studi Optimal Mahasiswa -
-Cara cek Dashboard
+Sistem Prediksi Beban Studi Optimal Mahasiswa 
 
-1. Folder yg dibawah masukin di vs code
-2. Di terminal vs code, buka yg dashboard, ketik syntax :
+Cara melihat Dashboard : 
+
+1. Folder yang berisi project (Big_Data_Project) dimasukkan ke dalam vs code
+2. Buka file dashboard, lalu buka terminalnya, ketik syntax :
    python -m pip install streamlit
    python -m streamlit run dashboard.py
