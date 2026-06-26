@@ -89,7 +89,7 @@ st.markdown("""
 # ─── DATA & MODELS ────────────────────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    return pd.read_csv("df_final_clean__5_.csv")
+    return pd.read_csv("df_final_clean.csv")
 
 @st.cache_resource
 def train_models(_df):
